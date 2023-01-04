@@ -1,3 +1,5 @@
+# $npm install (in root folder) + $npm install (in frontend folder)
+
 1. Create Folder Structure
    1. create root folder as jsamazona
    2. add frontend and backend folder
